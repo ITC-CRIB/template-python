@@ -2,6 +2,10 @@
 
 Research software templates that implement the best practices on sustainable software for researchers in Natural and Engineering Science.  These templates provide boilerplate code and assets to initiate the research software development, including unit tests, documentation, etc.
 
+## My favourite color is:
+
+**{{favourite_colour}} **
+
 ## How to Use
 
 **Requirements**

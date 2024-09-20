@@ -107,4 +107,4 @@ documentation_type:
 # Uncoment the line below to include custome questions
 # Add custom questions to custom.yml
 
-# !include custom.yml
+!include custom.yml

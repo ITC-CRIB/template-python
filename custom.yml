@@ -1,2 +1,11 @@
 # Include template/language specific questions for 
 # the user to answer (optional)
+
+favourite_colour:
+    type: str
+    default: blue
+    help: What is your favourite color?
+    choices:
+        - blue
+        - red
+        - green
