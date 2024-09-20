@@ -1,3 +1,6 @@
 [submodule "templates/submodule-r"]
 	path = templates/submodule-r
 	url = https://github.com/manuGil/submodule-r.git
+[submodule "templates/template-python"]
+	path = templates/template-python
+	url = https://github.com/ITC-CRIB/template-python.git
