@@ -77,7 +77,7 @@ software_purpose:
 
 programming_language:
   type: str
-  default: submodule-python
+  default: template-python
   choices:
     - template-python
     - submodule-r
