@@ -79,7 +79,7 @@ programming_language:
   type: str
   default: submodule-python
   choices:
-    - submodule-python
+    - template-python
     - submodule-r
   help: Which is the main programing language for developing "{{ software_name }}"?
 
